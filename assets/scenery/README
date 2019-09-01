@@ -1,0 +1,4 @@
+There is one .blend file for each scenery theme. For each such file, the
+build script will export each scene-level object separately, repositioned at
+the origin. The name of the scene-level object will be used as the filename
+for the exported model and material.
